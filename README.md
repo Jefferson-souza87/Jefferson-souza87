@@ -1,7 +1,7 @@
 ### Olá! eu sou o Jefferson Souza.
 
-- 🚀Em transisção de carreira!
-- 🔭 Atualmente trabalho no setor logistico como supervisor de recebimento
+- 🚀Em transição de carreira!
+- 🔭 Atualmente trabalho no setor logístico como supervisor de recebimento
 - 👨🏼‍🎓Estudando Analise e Desenvolvimento de sistemas
 - 🖥Estudando HTML, CSS e Javascript
 - 🛠Curso básico de montagem e manutenção de computadores.
