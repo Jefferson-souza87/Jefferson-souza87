@@ -25,6 +25,3 @@
   <a href = "mailto:jtessilia@yahoo.com.br"><img height="30" src="https://s.yimg.com/rz/p/yahoo_homepage_en-US_s_f_p_bestfit_homepage.png" target="_blank"></a>
  
 </div>
-
-  
- 
