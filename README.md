@@ -5,7 +5,7 @@
 - 👨🏼‍🎓Estudando Analise e Desenvolvimento de sistemas
 - 🖥Estudando HTML, CSS e Javascript
 - 🛠Curso básico de montagem e manutenção de computadores.
-- 🏃🏽‍♂️Em busco do primeiro estágio.
+- 🏃🏽‍♂️Em busca do primeiro estágio.
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-souza87&layout=compact&langs_count=16&theme=dracula"/>
